@@ -6,6 +6,7 @@ classes:
   - apache::mod::remoteip
   - bugzilla
   - bugzilla::custom_project
+  - blocky
   - kif
   - perl
   - vhosts_asf::vhosts
